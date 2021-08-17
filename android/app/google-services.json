@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317009256463",
+    "project_id": "moneyspender-52fb1",
+    "storage_bucket": "moneyspender-52fb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317009256463:android:c664c098395e4150be437a",
+        "android_client_info": {
+          "package_name": "com.example.money_spender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317009256463-mg3i23jt907d12rlf16at009624j1e76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcfsO2pz_j3QAPFMEjk4JhqprkEJo4IRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317009256463-mg3i23jt907d12rlf16at009624j1e76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
